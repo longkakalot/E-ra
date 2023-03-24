@@ -1,0 +1,19 @@
+3fffff70:  00000000 402222c8 011ba8c0 0120b4c5  
+3fffff80:  0000f9b3 000003e8 402222c8 3fff007c  
+3fffff90:  3fffdad0 0000f9b1 00000000 3fff007c  
+3fffffa0:  3fffdad0 00000000 3fff0050 40212e39  
+<<<stack<<<
+
+--------------- CUT HERE FOR EXCEPTION DECODER ---------------
+
+ ets Jan  8 2013,rst cause:2, boot mode:(3,6)
+
+load 0x4010f000, len 3424, room 16 
+tail 0
+chksum 0x2e
+load 0x3fff20b8, len 40, room 8 
+tail 0
+chksum 0x2b
+csum 0x2b
+v00067f30
+~ld
